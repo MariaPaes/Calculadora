@@ -71,10 +71,10 @@ a{
   justify-content: flex-end;
   font-size: 30px;
   margin-bottom: 20px;
-  overflow-x: scroll;
+  /* overflow-x: scroll; */
 }
 
-#display:: -webkit-scrollbar{
+#display ::-webkit-scrollbar{
   display: block;
   height: 3px;
 }
@@ -97,6 +97,9 @@ button:hover{
 
 button#equal{
   height: 130px;
+  position: absolute;
+  right: 20px;
+  bottom: 28PX;
 }
 
 
@@ -107,7 +110,8 @@ button#equal{
 }
 
 .calculator #display{
-  color: #0a1e23;
+  background-color: #04202728;
+  border-radius: 10px;
 }
 
 .calculator button.btn-operator, button.btn-equal{
