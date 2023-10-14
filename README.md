@@ -1,13 +1,16 @@
 # Calculadora JavaScript com Dois Temas
 
+
+## Visão Geral
+
 Este projeto é uma calculadora desenvolvida em HTML, CSS e JavaScript, criada com o objetivo de treinar e aprimorar habilidades de design responsivo, métricas de desempenho na web desktop e mobile, além de oferecer dois temas: um com cores mais alegres e outro com um estilo dark.
 
 
 ## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- HTML 5
+- CSS 3
+- JavaScript (ECMAScript 2021)
 
 
 ## Funcionalidades
